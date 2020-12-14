@@ -1,7 +1,5 @@
 ### Hello World 👋I'm Gareth!
 
-<!--
-**BillyGareth/BillyGareth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 About me:
 

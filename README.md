@@ -12,3 +12,7 @@ About me:
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...Addicted to mathematics and movies, skilled footballer! I never mind road trips.
 --> Problem solving is the greatest paid for skill in every planet.
+- Bright and ambitious Data Scientist and Machine Learning practitioner with a successful background of deriving solutions wherever problems exist.
+An inspiring and conscientious leader with a strong background in team development and a solid reputation for assessing business needs, developing cost-saving solutions, increasing sales, and driving customer satisfaction.
+- I also enhance the creation of games and mixed reality Applications by offering mentorship and quality methods for solutions using; Shader Graphs, Cinemachine, Level Designing among others.
+- *"....I extract nuggets of gold from mountains of data and build data intelligent solutions to create positive impact...."*

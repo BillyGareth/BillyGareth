@@ -1,5 +1,5 @@
 ### Hello World 👋I'm Gareth!
-
+<img src="https://media.tenor.com/images/bbe2e72ce059f349e925f1bf95057eea/tenor.gif" width="300" height="200" />
 
 About me:
 

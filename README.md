@@ -1,6 +1,7 @@
 ### Hello World 👋Here's Gareth!
 <img src="./media/dsvideo.gif" width="250" height="200" /> <img src="./media/dsvideo1.gif" width="250" height="200" /> <img src="./media/mlvideo.gif" width="250" height="200" />
 <img src="./media/mlvideo3.gif" width="250" height="200" /> <img src="./media/mlvideo2.gif" width="250" height="200" /> <img src="./media/mlvideo1.gif" width="250" height="200" />
+<br>
 About me:
 "*.....My day job is to speak in an arcane snake language to a crystal vibrating at 3,000,000,000 cycles per second sitting in a cloud so that it can alter probabilities in the real world. If that isn't magic what is....🤔😎👀"*
 - 🔭 I’m currently working on ...AI>ML>Deep Learning && Data Science

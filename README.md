@@ -9,7 +9,7 @@ About me:
 - 👯 I’m looking to collaborate on ...Artificial Intelligence and Gaming
 - 🤔 I’m looking for help with ...Federated Learning and Robotics
 - 💬 Ask me about ...Anything,just anything!
-- 📫 How to reach me: ...billygareth01@gmail.com||+254701751016||[myLinkedInProfile](https://www.linkedin.com/in/billy-gareth-87b052173/)||[gareth@twitter](https://twitter.com/billy_gareth)
+- 📫 How to reach me: ...billygareth01@gmail.com||+254701751016||[LinkedIn](https://www.linkedin.com/in/billy-gareth-87b052173/)||[Twitter](https://twitter.com/billy_gareth)
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...Addicted to mathematics and movies, skilled footballer! I never mind road trips.
 --> Problem solving is the greatest paid for skill in every planet.
